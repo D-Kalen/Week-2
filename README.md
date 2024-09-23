@@ -2,4 +2,4 @@
 
 David Kalen
 
-My exploratory data analysis into the giveen Data Glacier Data.
+My exploratory data analysis into the given Data Glacier Data.
